@@ -2,7 +2,7 @@ package com.covid;
 
 public class CovidCases {
 	
-	static int sum = 0;
+	static int sum = 2;
 
 	public static void main(String[] args) {
 		
