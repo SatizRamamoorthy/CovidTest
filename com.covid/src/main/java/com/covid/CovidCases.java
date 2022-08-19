@@ -6,7 +6,9 @@ public class CovidCases {
 
 	public static void main(String[] args) {
 		
-		System.out.println(sumOfCovidCases(1,2));
+		int total = sumOfCovidCases(1,2);
+		
+		System.out.println(total);
 			
 		}
 	
